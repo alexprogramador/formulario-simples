@@ -1,4 +1,2 @@
-# formulariosimples
- formulariosimplesphp/html-css
- https://alexprogramador.github.io/formulariosimples/
+https://alexprogramador.github.io/formulario-simples/
  acesse por aqui
